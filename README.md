@@ -12,7 +12,7 @@ This project provides a detailed analysis and visualization of electric vehicle 
 
 - **Racing Bar Chart of EV Sales by Manufacturer**: Shows the changing landscape of top EV manufacturers over the years through an animated racing bar chart.
 
-  ![racing_bar_chart](https://github.com/user-attachments/assets/5adf5863-4960-4ff3-8efe-75302c175919)
+  https://github.com/user-attachments/assets/5adf5863-4960-4ff3-8efe-75302c175919
   
 ## Methodology
 1. **Data Understanding**
