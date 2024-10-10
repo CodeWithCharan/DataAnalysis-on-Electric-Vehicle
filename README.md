@@ -8,7 +8,11 @@ This project provides a detailed analysis and visualization of electric vehicle 
 
 - **Choropleth Map of EVs by State**: Visualizes the distribution of electric vehicles across U.S. states.
 
+  ![ChoroplethMap](https://github.com/user-attachments/assets/71546741-ad54-4781-8ae2-e1cd8a0f49d0)
+
 - **Racing Bar Chart of EV Sales by Manufacturer**: Shows the changing landscape of top EV manufacturers over the years through an animated racing bar chart.
+
+  ![racing_bar_chart](https://github.com/user-attachments/assets/5adf5863-4960-4ff3-8efe-75302c175919)
   
 ## Methodology
 1. **Data Understanding**
